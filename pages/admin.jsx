@@ -1,3 +1,8 @@
 export default function Admin() {
-  return <div>Área administrativa - acesso restrito</div>;
+  return (
+    <div>
+      <h1>Painel Administrativo</h1>
+      <p>Acesso restrito. Visão geral do sistema.</p>
+    </div>
+  );
 }
