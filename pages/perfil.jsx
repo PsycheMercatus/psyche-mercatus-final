@@ -1,1 +1,3 @@
-// Código real de pages/perfil.jsx
+export default function Perfil() {
+  return <div>Seu Perfil</div>;
+}

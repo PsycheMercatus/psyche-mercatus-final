@@ -1,1 +1,3 @@
-// Código real de pages/register.jsx
+export default function Register() {
+  return <div>Página de Cadastro</div>;
+}

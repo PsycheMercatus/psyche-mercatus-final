@@ -1,1 +1,3 @@
-// Código real de pages/login.jsx
+export default function Login() {
+  return <div>Página de Login</div>;
+}

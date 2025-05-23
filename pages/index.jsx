@@ -1,1 +1,3 @@
-// Código real de pages/index.jsx
+export default function Home() {
+  return <div>Bem-vindo ao Psyche Mercatus</div>;
+}

@@ -1,1 +1,3 @@
-// Código real de pages/admin.jsx
+export default function Admin() {
+  return <div>Painel Administrativo</div>;
+}
