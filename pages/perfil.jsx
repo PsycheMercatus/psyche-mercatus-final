@@ -1,3 +1,3 @@
 export default function Perfil() {
-  return <div>Seu Perfil</div>;
+  return <div>Esta é a sua página de perfil</div>;
 }

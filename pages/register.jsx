@@ -1,3 +1,3 @@
 export default function Register() {
-  return <div>Página de Cadastro</div>;
+  return <div>Crie sua conta no Psyche Mercatus</div>;
 }

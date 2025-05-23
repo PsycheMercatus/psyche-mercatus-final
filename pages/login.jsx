@@ -1,3 +1,3 @@
 export default function Login() {
-  return <div>Página de Login</div>;
+  return <div>Faça login na sua conta Psyche Mercatus</div>;
 }
